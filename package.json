@@ -1,0 +1,11 @@
+{
+  "name": "game-data-parser-viewer",
+  "version": "1.0.0",
+  "description": "This project takes a database export of completed online games and parses the data to find which characters win the most, sorted by number of players.",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
