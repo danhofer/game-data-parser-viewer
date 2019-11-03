@@ -8,7 +8,7 @@ The output of [parser.js](./parser.js) was copied into [data.js](./public/data.j
 
 ## Take it for a spin
 
-https://danhofer.github.io/game-data-parser-viewer/
+https://danhofer.github.io/game-data-parser-viewer/public
 
 ## Obstacles
 
