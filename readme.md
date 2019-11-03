@@ -4,7 +4,11 @@ This project takes a database export of completed online games and parses the da
 
 The original database file (not included in this repository) is over 120mb and contains over 60,000 games. The code in [parser.js](./parser.js) takes each line and extracts the number of players, the characters the players used, and the final score. An example line of data is in [raw-data-file.csv](./raw-data-file.csv), and the parsed output data is just over 20kb. The script runs in O(n) time, and a standard laptop at the time of this writing parses about 10,000 lines a second.
 
-The output of [parser.js](./parser.js) was copied into [data.js](./public/data.js) for the frontend. 
+The output of [parser.js](./parser.js) was copied into [data.js](./public/data.js) for the frontend.
+
+## Take it for a spin
+
+https://danhofer.github.io/game-data-parser-viewer/
 
 ## Obstacles
 
